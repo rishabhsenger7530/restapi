@@ -5,7 +5,7 @@ from .models import TestModel
 from django.http import HttpResponse,JsonResponse
 from rest_framework.views import APIView
 from rest_framework import generics
-# Create your views here.
+# Create your views here
 
 
 
